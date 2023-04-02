@@ -1,0 +1,586 @@
+In this article, we build on and extend research mto the cogmtions and values of users and
+designers by proposing a systematic approach for examining the underlying assumptions,
+expectations, and knowledge that people have about technology. Such interpretations of technol-
+ogy (which we call technological frames) are central to understanding technological development,
+use, and change in organizations. We suggest that where the technolo~cal frames of key groups
+in organizations-such as managers, technologists, and users—are significantly different, diffi-
+culties and conflict around the development, use, and change of technology may result. We use
+the findings of an empirical study to Illustrate how the nature, value, and use of a groupware
+technology were mterpreted by various orgamzatlonal stakeholders, resulting in outcomes that
+deviated from those expected We argue that technological frames offer an interesting and useful
+analyhc perspective for explaining and anticipating actions and meanmgs that are not easily
+obtained with other theoretical lenses.
+
+Some fifteen years ago Bostrom and Heinen [1977] suggested that many of
+the social problems associated with the implementation of information sys-
+tems (1S) were due to the frames of reference held by system designers.
+
+Building on this work, Dagwell and Weber [1983] and Kumar and Bjgrn-
+Andersen [1990] examined the influence of designers’ values and the views of
+users on systems development, while Boland [1978; 1979] showed that the
+conceptual framework of the designer influenced the kind of system designed.
+Ginzberg [1981], in turn, investigated how users’ expectations of a pending
+information system significantly shaped their attitudes toward it. Since these
+studies, researchers have considered the perceptions and values of designers
+and users as part of their investigations into the social aspects of information
+technology [Hirschheim and Klein 1989; Kling and Iacono 1989; Markus
+1984].
+While a cognitive thread has clearly run through IS research, this has not
+led to a systematic articulation of the role of frames of reference in systems
+development and use. In this article we hope to lay the groundwork for such a
+socio-cognitive approach toward information technology. We argue that an
+understanding of people’s interpretations of a technology is critical to under-
+standing their interaction with it. To interact with technology, people have to
+make sense of it; and in this sense-making process, they develop particular
+assumptions, expectations, and knowledge of the technology, which then
+serve to shape subsequent actions toward it. While these interpretations
+become taken-for-granted and are rarely brought to the surface and reflected
+on, they nevertheless remain significant in influencing how actors in organi-
+zations think about and act toward technology. Weick [1990, p. 17], for
+example, has noted that: “cognition and micro-level processes are keys to
+understanding the organizational impact of new technologies.”
+We argue that by examining these taken-for-granted notions, we can gain
+much insight into how technologies are developed, used, and changed. We
+propose a conceptual framework for examining the interpretations that peo-
+ple develop around technology, which should be useful for researchers study-
+ing the role of technology in organizations, as well as for practitioners
+managing the implementation of technological change.
+In the next section, we discuss social cognitive research on frames of
+reference or cognitive structures that are shared among groups of individuals.
+We build on this work to develop the concept of technological frames, which
+focuses on those aspects of shared cognitive structures that concern technol-
+ogy. We suggest that different groups within an organization may have
+different technological frames, and introduce the notion of congruence to
+describe the nature and extent of differences among frames. We then draw on
+some findings from a field study that analyzed the implementation and early
+use of a new information technology to examine key actors’ interpretations of
+the technology. The findings reveal significant differences in the technological
+frames of two primary groups—technologists and users. The incongruence in
+frames provides an interesting explanation of the difficulties and unantici-
+pated outcomes associated with the technology implementation. We conclude
+by discussing the power of the technological frames concept in research and
+practice.
+
+THE CONCEPT OF FRAMES
+A major premise of social cognitive research is that people act on the basis of
+their interpretations of the world, and in doing so enact particular social
+realities and endow them with meaning [Berger and Luckmann 1967; Smir-
+cich and Stubbart 1985; Weick 1979a]. The frames of reference held by
+organizational members are implicit guidelines that serve to organize and
+shape their interpretations of events and organizational phenomena and give
+these meaning [Moth and Bartunek 1990; Weick 1979bl. Borrowing the
+concept of “schema” from cognitive psychology [Bartlett 1932; Neisser, 1976],
+an individual’s frame of reference has been described as “a built-up repertoire
+of tacit knowledge that is used to impose structure upon, and impart meaning
+to, otherwise ambiguous social and situational information to facilitate un-
+derstanding” [Gioia, 1986, p. 56]. Recent literature in organizational behavior
+has extended the idea of individual cognitive structures to groups and
+organizations [Calder and Schurr 1981; Gray et al. 1985]. A variety of terms
+has been used to convey the idea of shared cognitive structures, including
+“cognitive maps” [Bougon et al. 1977; Eden 1992], “frames” [Goffman 1974],
+“interpretive frames” [Bartunek and Moth 1987], “interpretative schemes”
+[Giddens 1984], “mental models” [Argyris and Schon 1978; Shutz 1970],
+“paradigms” [Kuhn 1970; Sheldon 1980], “scripts” [Abelson 1981; Gioia 1986],
+and “thought worlds” [Douglas 1987; Dougherty 1992].1
+While some of these terms (e.g., mental model, frame, and script) have been
+used in cognitive science and artificial intelligence, here they reflect our
+interest in how organizational members make sense of and assign meaning to
+their environment, organization, and tasks (e.g., Daft and Weick, [1984],
+Dutton and Jackson [1987], Kiesler and Sproull [1982], and Porac and
+Thomas [1990]). Frames refer to “definitions of organizational reality that
+serve as vehicles for understanding and action” [Gioia 1986, p. 50]. They
+include assumptions, knowledge, and expectations, expressed symbolically
+through language, visual images, metaphors, and stories. Frames are flexible
+in structure and content, having variable dimensions that shift in salience
+and content by context and over time. They are structured more as webs of
+meanings than as linear, ordered graphs [Gioia 1986].
+By shaping individuals’ interpretations of organizational phenomena,
+frames implicitly guide them to make sense of and take action in organiza-
+tions [Bartunek 1984; Mc,c5 and Bartunek 1990]. Frames typically operate in
+the background and hav : both facilitating and constraining effects. On the
+one hand, as Gioia [1986, p. 346] notes, frames are helpful when they
+structure organizational experience, allow interpretation of ambiguous situa-
+tions, reduce uncertainty in conditiol. c of complexity and change, and provide
+a basis for taking action. For example, research paradigms facilitate the
+practice of a community of scholars by providing shared assumptions about
+the nature of phenomena, a vocabulary for representing such phenomena,
+and criteria for evaluating scholarly work. On the other hand, frames are
+constraining when they reinforce unreflective reliance on established as-
+sumptions and knowledge, distort information to make it fit existing cogni-
+tive structures, and inhibit creative problem solving. For example, Starbuck
+[1989] shows how the executives of the Facit AB calculator company were so
+convinced of the superiority of their mechanical calculators, that they could
+not acknowledge the real threat posed by new electronic calculators until
+their company was on the brink of failure. As Bolman and Deal [1991, p. 4]
+point out, frames can create “psychic prisons” that inhibit learning because
+people “cannot look at old problems in a new light and attack old challenges
+with different and more powerful tools—they cannot reframe.”
+
+Sharing of Frames
+The social cognitive perspective suggests that while members of a particular
+community have individual interpretations, they also have a set of core
+beliefs in common [Porac et al. 1989]. Professional and occupational training
+and socialization may be seen as an attempt by members of a community to
+instill the use of particular cognitive schemas in others, especially in new
+members [Van Maanen and Schein 1979]. The socio-cognitive literature
+acknowledges the strong effect of group or departmental membership, which
+influences the particular systems of knowledge, meaning, and norms to which
+members are exposed, and creates differences in interests and orientations
+among communities [Dougherty 1992; Gregory 1983; Shibutani 1962; Van
+Maanen and Schein 1979]. The research on social information processing
+[Salancik and Pfeffer 1978], power [Pettigrew 1973; Pfeffer 1980], specializa-
+tion [Burns and Stalker 1961; Daft and Lengel 1986; Lawrence and Lorsch
+1967], and organizational cultures [Gregory 1983; Riley 1983; Pettigrew
+1979, Schein 1985; Strauss 1978] further suggests that people tend to share
+assumptions, knowledge, and expectations with others with whom they have
+close working relationships. Likewise, social interaction and negotiation over
+time create opportunities for the development and exchange of similar points
+of view [Gray et al. 1985; Isabella 1990]
+
+A shared frame can take different forms. For example, Weick and Bougon
+[1986, p. 112] suggest three: an assemblage that ties individual frames
+together through common dimensions; a composite formed by group members
+jointly constructing a common understanding through discussion; and an
+average, which represents the intersection of frames held by individuals
+comprising the group. Our view of shared frames borrows from Wittgenstein’s
+[1953] notion of family resemblances, where individuals can be said to share
+a frame if some core cognitive elements (assumptions, knowledge, and expec-
+tations) are similar.z Thus, we recognize that while frames are necessarily
+individually held, and hence inevitably reflect individual variation, it is
+nonetheless useful to distinguish those cognitive elements that—through
+socialization, interaction, or negotiation—individuals have in common. It is
+these collective cognitive elements that individuals draw on to construct and
+reconstruct their social reality.
+While the concept of shared frames is closely related to that of subcultures,
+it should note be confused with it. Frames are cognitive structures or mental
+models that are held by individuals. Frames are assumed to be shared by a
+number of individuals when there is a significant overlap of cognitive cate-
+gories and content. The concept of subcultures, on the other hand, is not
+purely cognitive, but refers to the “living historical product of group problem
+solving” [Van Maanen and Barley 1985, p. 33]. Subcultures are posited to be
+enacted realities. That is, individuals—drawing on their shared frames—en-
+gage in symbolic action and thereby construct a social reality that reflects
+their common assumptions, beliefs, and understandings, and that includes
+particular rules, rituals, and customary practices. Thus, while subcultures
+rely heavily on cognitive elements such as common frames of reference, they
+are not equivalent [Geertz 1973; Van Maanen and Barley 1985]. Where
+cultural and subcultural analyses provide interpretations of contexts—so-
+cially established webs of meaning and actions—frames of reference offer a
+crisp and powerful lens for focusing specifically on how people make sense of
+particular aspects of the world.
+
+Technological Frames
+
+To the extent that technology constitutes a core element in organizations,
+aspects of its members’ organizational frames will concern technology. Most
+discussions of social cognition do not specifically address technology per se,
+emphasizing instead strategy, innovation, or change management. We think
+it is useful, at least analytically, to focus on the particular interpretations
+made about technology and its role in organizations. We use the term
+technological frame to identify that subset of members’ organizational frames
+that concern the assumptions, expectations, and knowledge they use to
+understand technology in organizations. This includes not only the nature
+and role of the technology itself, but the specific conditions, applications, and
+consequences of that technology in particular contexts.
+A few researchers have proposed the idea that individuals have assump-
+tions about and expectations of technology [Bostrom and Heinen, 1977;
+Ginzberg 1981; Goodman et al. 1990], and we want to expand on these ideas,
+emphasizing the social nature of technological frames, their specific content,
+and implications for technology development, implementation, and use. While
+the concept of technological frames is rooted in social cognitive research, we
+have also drawn on the sociological literature that examines collective cogni-
+tion and social constructions of technology [Bijker 1987; Bijker et al. 1987;
+Henderson 1991; Eketnan 1991]. In this literature, technology frames are the
+understanding that members of a social group come to have of particular
+technological artifacts, and they include not only knowledge about the partic-
+ular technology but also local understanding of specific uses in a given
+setting. This contextual dimension of frames is one we wish to preserve in our
+treatment of technological frames, as it is particularly significant. For example,
+Bloomberg [1986] shows how users’ perspective of a technology influ-
+enced and shaped the way in which it was embedded into their work process.
+As she notes, the meaning of a technology “can only be described and its
+significance appreciated in the context of its uses and its users” [Bloomberg
+1986, p. 42]. We thus include the contexts of design and use, along with the
+artifact itself, as formative aspects of technological frames.
+Technological frames have powerful effects in that people’s assumptions,
+expectations, and knowledge about the purpose, context, importance, and role
+of technology will strongly influence the choices made regarding the design
+and use of those technologies [Noble 1986; Orlikowski 1992a; Pinch and
+Bijker 1987]. Because technologies are social artifacts, their material form
+and function will embody their sponsors’ and developers’ objectives, values,
+interests, and knowledge of that technology. For example, views of how work
+should be done, what the division of labor should be, how much autonomy
+employees should have, and how integrated or decoupled production units
+should be are all assumptions that are consciously or implicitly built into
+information technology by systems planners and designers [Boland 1979;
+Hirschheim and Klein 1989; Orlikowski 1992a]. Time, too, affects interpreta-
+tion, both for the organization—where understandings of process and product
+technology rapidly congeal after implementation [Tyre and Orlikowski 1994]
+—and for society [Winner 1986], where, as Pfaffenberger [1988, p. 16] notes:
+“Once created, however, the opportunity for social choice diminishes. An imple-
+mented technology carries with it a powerful vision of the society in which it is to
+be used, replete with an equally powerful endowment of symbolic meaning and,
+sometimes, an obligatory plan for the way people will have to arrange themselves
+to use it.”
+
+Congruence of Technological Frames
+
+Pinch and Bijker [1987] argue that because a technological artifact may be
+interpreted differently by multiple social groups, they will also construct
+different interpretations of it based on their interactions with it. Such inter-
+pretations, to varying degrees, are shaped and constrained by various groups’
+purpose, context, power, knowledge base, and the artifact itself. For example,
+automobile designers have different notions and knowledge of automobiles
+than drivers, who in turn have different interpretations than mechanics, and
+so on. With respect to information technology in organizations, there are
+usually a number of critical social groups-in what Kling and Gerson [1978]
+refer to as the social world of computing—whose actions will significantly
+influence the process and outcome of technological change. Managers, system
+developers, and users, at a minimum, will be key actors, and by dint of their
+membership in particular social groups and the different roles and relation-
+ships they have with technology, will tend to share their group’s technological
+frame.
+Such group frames are unlikely to be shared across the different stake-
+holder groups [Calder and Schurr 1981; Dornbusch and Scott 1975]. For
+example, technologists may be expected to have an engineering perspective of
+technology, treating it as a tool to be designed, manipulated, and deployed to
+
+accomplish a particular task [Markus and Bj@rn-Anderson 1987; Orlikowski
+1988], In contrast, line managers may have a more strategic understanding of
+technology, expecting it to facilitate certain ways of doing business and
+providing financial returns, while users may take a more focused or instru-
+mental view, expecting immediate, local, and task-specific benefits.
+We define the notion of congruence in technological frames as referring to
+the alignment of frames on key elements or categories. By congruent, we do
+not mean identical, but related in structure (i.e., common categories of
+frames) and content (i.e., similar values on the common categories). The
+notion is akin to that of cognitive consensuality [Gioia and Sims 1986;
+Isabella 1990], which Finney and Mitroff [1986, p. 320] define as “a reason-
+able amount of implicit agreement among organization members as to the
+appropriate meaning of information or events.” Congruence in technological
+frames would imply, for example, similar expectations around the role of
+technology in business processes, the nature of technological use, or the type
+and frequency of support and maintenance. incongruence implies important
+differences in expectations, assumptions, or knowledge about some key as-
+pects of the technology. For example, a frame incongruence is apparent when
+managers expect a technology to transform the way their company does
+business, but users believe the technology is intended to merely speed up and
+control their work. Alternatively, incongruence may occur when technologists
+have a different understanding of and experience with a particular technol-
+o~—say a database system, which they believe is highly malleable and
+customizable—to that of users who only experience a single structured
+interface, and hence believe the database system is inflexible and standard-
+ized.
+We expect that where incongruent technological frames exist, organizations
+are likely to experience difficulties and conflicts around developing, imple-
+menting, and using technologies. For example, one of us observed significant
+frame incongruence between some organizational members who were partici-
+pating in design sessions which they believed would create some minor
+changes to their existing technology and the consultants who understood
+their mandate as developing new technology around a reengineered work
+process. The result was a serious breakdown in communication, a lack of
+participation by users in the design process, and the eventual suspension of
+the project. Another example is given by Zuboffs [1988] case studies where
+managers were unable to accept information technology that would increase
+workers’ autonomy and decision-making authority. The managers’ frames
+were so rooted in traditional ideas of managerial authority that they could
+not “wrest themselves from deep-seated images of managerial control” [Zuboff
+1988, p. 278], hence creating substantial incongruence between managers’
+and users’ interpretation of the same technology. Managers would not ac-
+knowledge that operators’ jobs had changed significantly as a result of
+information technology use, while the operators—experiencing the technolog-
+ical change—perceived a fundamental shift in their tasks, norms, and re-
+sponsibilities. These frame conflicts soon led to social clashes around worker
+grievances and union action.
+
+While we are most interested in the incongruence of frames across groups,
+since we believe that different world views are likely to be very important in
+influencing social relations, we also note that frames may be internally
+inconsistent. That is, while frames are typically self-reinforcing, even to the
+point of rejecting knowledge that does not fit their system of meaning
+[Dougherty 1992], they may also embody ideas that are ambiguous, obsolete,
+incomplete, or incorrect. Such inconsistencies within a group’s frame are
+largely implicit, yet they often have important consequences. For example,
+group members may believe that a new conferencing technology will increase
+their collaboration and productivity within the group, while at the same time
+they may not expect personally to have to input substantial amounts of
+commentary, expecting everyone else to contribute. In this case, members are
+likely to promote group conferencing publicly, but not make any changes in
+their individual work habits to facilitate collaborative use of the technology.
+In order to explore the concept of technological frames in more detail and
+provide a concrete illustration of its application and value, we now present
+some findings from an empirical study conducted by one of us. Our main
+interest in discussing these findings is to demonstrate the explanatory power
+of the technological frames concept, not to discuss the research study in full.3
+The study investigated the implementation of a new information technol-
+ogy-a groupware system—into one large organization, The research in-
+cluded a focus on how different actors in the organization made sense of the
+new technology and how and why they interacted with it. Technological
+frames of the technologists and users were identified and found to be incon-
+gruent in a number of ways. This incongruence led to some incompatible
+actions around the technology, which made the groupware implementation
+more diff3cult than had been anticipated. Before presenting and discussing
+these findings, we first describe the research site and methods used.
+
+IMPLICATIONS OF THE TECHNOLOGICAL FRAMES CONCEPT
+In this article we proposed the concept of technological frames and argued
+that such a social cognitive perspective on information technology offers a
+particularly important approach to examining and explaining the develop-
+ment, use, and change of information technology in organizations. We drew
+on the findings of a research study to apply the concepts of technological
+frames and congruence in order to illustrate their explanatory power. We
+were able to explain technology change outcomes by referring to the signifi-
+cant differences in the technological frames of key actors. The conceptual
+framework developed here has important implications for both research and
+practice.
+
+We believe that the concept of technological frames extends earlier work on
+cognitive structures by focusing on the increasingly salient organizational 
+arena of information technology. While organizational researchers have ex-
+amined the role of collective cognitive models in organizational action, few
+have studied collective cognition of technology. Drawing on the organiza-
+tional and sociological literature, we have defined technological frames as the
+core set of assumptions, expectations, and knowledge of technology collec-
+tively held by a group or community. While technological frames are individu-
+ally held, they are also social phenomena, in that mutual understanding
+shared by individuals undergirds enactment of a social reality. In this way,
+social cognition connect to institutional analyses, which are concerned with
+the shared, taken-for-granted systems of social rules and conventions that
+structure social thought and action [DiMaggio and Powell 1991, p. 9]. A focus
+on the social nature of technological frames allows us to ask a number of
+useful questions about collective interpretations of technology: What frames
+do particular groups of individuals share, why, and with what consequences?
+How are these shared understandings formed, reinforced, institutionalized,
+and changed over time? What is the underlying process of such cognitive
+formation, stagnation, and modification? How do shared frames of a group
+become embedded in technology design and work routines, and with what
+consequences?
+We believe that the concept of technological frames is a particularly useful
+analytic tool for examining how and why people act around information
+technology. In particular, this concept allows us to explain and anticipate
+outcomes that are not captured by other perspectives, such as political or
+structural contingency models. For example, while a political perspective may
+explain particular outcomes that are due to the loss or gain of power by a
+group, it cannot explain contradictory outcomes due to different interpreta-
+tions of a technology. For example, in the Alpha case users and technologists
+conceived of Notes differently. The appropriation of Notes as an individual
+productivity tool stemmed from users’ interpretation of Notes as being simi-
+lar to other already familiar technologies. Technologists, in contrast, under-
+stood Notes as facilitating group interaction; hence they appropriated it as a
+group productivity tool. In this case, frames provided a valuable lens through
+which to understand the interpretive grounds for human action around
+technology. The concept of technological frames thus forms a powerful and
+useful complement to other forms of social analyses, such as power, control,
+and resource dependency [Gash 1987; Grudin 1988; Kling and Iacono 1984;
+Markus 1983]. In an overall investigation of technology implementation and
+use in organizations, we believe that both interpretive analysis of technology
+frames and institutional analyses of structural, cultural, and political issues
+are valuable. For example, the detailed analysis of Alpha [Orlikowski 1992b]
+included an examination of the institutional elements (such as reward sys-
+tems, career paths, and work processes) that constituted the context within
+which Notes was introduced and used.
+Examining shared cognition around technology can be a powerful means
+of articulating and tracing the influence of information systems in organiza-
+tions. To date, it would appear that contributions of cognitive researchers
+have been primarily limited to understanding individual cognitive processes
+
+such as learning, problem-solving, and knowledge representation in AI re-
+search, and issues concerning human factors such as visual and linguistic
+interfaces. Our framework focuses on the influence of shared frames and
+suggests a potentially broader role for cognitive research in studying informa-
+tion systems. It also allows us to trace the often unacknowledged structural
+influences of shared interpretations. Over time, the assumptions and cate-
+gories of shared cognitive structures are often externalized and institutional-
+ized [Giddens 1984; Hedberg et al. 1976; 1977; March and Simon 1958;
+Schein 1985]. Once institutionalized, frames tend to produce cognitive inertia
+—a conservatism which may protect the organizational status quo, but which
+may also prevent an organization from adapting to a changing environment.
+Typically, frames are built into the artifact that technologists design and
+construct [Orlikowski 1992a], when, for instance, the assumptions and vocab-
+ulary of technologists interpret user requirements and drive the design
+process [Boland 1979; Markus and Bj@rn-Andersen 1987]. These artifacts
+then’ shape the formation of users’ frames, as they attempt to appropriate
+that technology [Orlikowski 1992a]. Users’ frames, in turn, become routinized
+and embedded in taken-for-granted mental and behavioral habits. The insti-
+tutionalizing influence of shared technological interpretations over time has
+largely been unexplored within information systems research. The concept of
+technological frames can help us investigate it.
+Because the concept of frames is a process rather than a variance theory, it
+is particularly valuable in examining the changes associated with imple-
+mentation of a new technology over time. 7 Social cognitive research has
+recognized that mental models are particularly salient sense-making devices
+during processes of organizational change [Bartunek and Moth 1987; Isabella
+1990; Starbuck 1989; Van Maanen and Schein 1979]. Likewise, technological
+frames may be used to track changes in the meanings people ascribe to
+information technology over time, thus providing a way of investigating the
+processes and outcomes of organizational change [Gash and Orlikowski 1991].
+Building on the work of Greenwood and Hinings [1988], we propose that
+technological frames may be used to track both expectations of technological
+change and the experience of technological change. Because such an approach
+examines change as anticipated, interpreted, and experienced by different
+organizational players, both intended and unintended changes can be stud-
+ied. Through such a process view of technological implementation and use,
+the complexities, subtleties, and dynamics of technological change can be
+addressed in a manner not possible with variance theories.
+Implications for Future Research
+Our research has identified an initial set of domains for technological frames
+that can serve as the basis for future work. These domains provide guidelines
+for examining and articulating people’s interpretive relations with technology.
+
+Three domains of technological frames—nature of technology, technology
+strategy, and technology-in-use-appeared to be relevant in the context of a
+consulting firm implementing a groupware technology. While we believe that
+these domains are relatively general and likely apply to a diversity of
+situations, much will be learned by examining them in other organizational
+contexts and with other technologies. We also expect that further empirical
+investigations will elaborate the domains of technological frames, adding both
+domains that apply to technology in general and those that reflect particular
+kinds of technologies and specific institutional contexts.
+Research is also needed to identify the means through which frames
+around information technology become shared or divergent, and to examine
+areas of incongruence among the frames of key and associated actors. For
+example, it would be useful to assess how much difference in assumptions,
+knowledge, and expectations constitutes frame incongruence, and whether
+the notion of incongruence varies by context and time. Research studies
+might focus on determining the conditions that lead to increased or decreased
+congruence in frames, and on elaborating the different organizational conse-
+quences usually associated with varying degrees of frame incongruence.
+Assessing and recognizing incongruence may be particularly difficult when
+frames differ on only some domains when they include considerable ambigu-
+ity and inconsistency, or when they are particularly difficult to articulate.
+Additionally, research may examine the degree of tolerance or rigidity of
+frames with respect to new and possibly contradictory information, the extent
+of commitment by various participants to particular frames, and how frames
+reflect or deviate from organizational realities [Schwartz 1990]. The process
+view of frames also requires an examination of the conditions under which
+frames change. For example, identifying the internal and external triggers
+that typically serve as catalysts for frame changes in various situations is an
+important area of study, as is determining how effective various triggers are
+in accomplishing changes in people’s frames and how these lead to changes in
+action [Louis and Sutton 1991].
+Assessing incongruence and inconsistency in frames and elicitjng deep-
+ly held assumptions, expectations, and knowledge poses a number of me-
+thodological challenges. We believe there are a variety of methodological
+approaches amenable to the study of technological frames and frame in-
+congruence across groups. For example, particular kinds of interviewing
+techniques, such as clinical interviewing [Schein 1987], discourse-based inter-
+viewing [Odell et al. 1983], and focus groups [Krueger 1988] provide some
+guidelines for eliciting assumptions and meanings. Researchers could collect
+data by directing within-group focus groups or in-depth interviews that
+stimulate discussion specifically around meanings of technology and expecta-
+tions around its use. Data gathered at interactions between members of
+multiple groups (e.g., managers, users, technologists) such as joint applica-
+tion design (JAD) sessions may provide good opportunities for observing
+congruence (or its absence) and diagnosing reasons for the apparent discrep-
+ancies.
+
+Frames are also revealed through the media of action and language, where
+the former may be discerned through observation, and the latter through
+analysis of metaphors, imagery, symbols, and narratives. While we focused
+primarily on interview data, the analysis of the data was also informed by a
+number of visual images that are often difficult to integrate into journal
+articles. For example, we had access to training materials such as manuals
+and a video, physical data gathered through observing people at work, and
+actual usage behavior obtained through accessing the technology available to
+the users. Analyzing these visual artifacts can provide important clues as to
+people’s implicit understandings, values, and concerns. For example, in re-
+sponse to a question about the utility of Notes, a user expressed his view
+quite clearly by fetching a cartoon that graphically depicted skepticism about
+the value of technology in the workplace.
+Another important consideration is determining how best to analyze the
+data. We posit that content analysis of qualitative data is a viable method for
+“reading between the lines” to assess underlying assumptions and expecta-
+tions, much as culture researchers interpret manifest artifacts, symbols, and
+stories. Researchers might begin by coding the content of their interviews,
+focus group transcriptions, and observations in terms of the three domains
+we have proposed here [Eisenhardt 1989]. Such analysis would reveal whether
+new categories are needed, and if sufficient evidence for categories is found,
+they can be examined for the underlying domain they reflect. Frames may
+then be examined for internal consistency (using, where feasible, some form
+of reliability statistics), and for congruence across groups (e.g., by clustering
+common domains and determining divergence). The coding, categorization,
+and interpretation of data by researchers may also be strengthened by being
+validated directly with sources. In fact, such an exercise may serve to
+facilitate further discussion, reflection, and articulation of assumptions,
+meanings, and experiences.
+
+Implications for Practice
+
+Early articulation, reflection, discussion, negotiation, and possibly change of
+inconsistencies and incongruence may reduce the likelihood of unintended
+misunderstandings and delusions around the implementation and use of a
+new information technology. Attempts to bring to the surface the common
+assumptions, expectations, and knowledge can be particularly useful before
+the design and implementation of a system, to identify where and why key
+stakeholders’ frames are incongruent, and where and why particular frames
+may be internally inconsistent. We saw from the field study how domains of
+people’s frames were both incongruent across two key groups, but were also
+internally inconsistent within one of the groups. This inconsistency and
+incongruence led to certain action and inaction that hampered the implemen-
+tation of a new technology. Early identification of these inconsistencies and
+incongruencies may have avoided some of the difficulties experienced during
+the implementation.
+
+Our conceptualization of technological frames also provides a means for
+influencing groups’ frames as the technology development and implementa-
+tion process proceeds. Initial assessment or benchmarking of frames will
+indicate the degree to which participants share an understanding of the
+organizational changes intended by a new technology. Tracking groups’ frames
+over time provides practitioners with insight into the underlying reasons for
+different conceptions and actions by key stakeholders. It may also provide
+insight into the source of the incongruence and hence the nature of appropri-
+ate interventions. Different types of incongruence should likely be treated
+differently. That is, distinguishing between incongruence due to political
+differences and those due to information deficiencies would allow for develop-
+ing specific interventions that dealt with the particular difference at hand.
+Specific data about the sources of incongruence or inconsistency around a
+technological change may be used to design a number of interventions to
+attempt clarification or alignment of people’s understanding, including re-
+framing the change effort. For example, Bartunek [1984] notes how a school
+principal—realizing the political concerns of the teachers—was able to effec-
+tively introduce microcomputers by reframing the desired change as a more
+acceptable incremental change to the curriculum (computers as a learning
+aid) rather than as the more radical and threatening change initially antici-
+pated by the teachers.
+Technological frames also have implications for the practice of IS develop-
+ment itself. In their design and construction of information systems, technolo-
+gists have tended to rely on structured methodologies to elicit information
+requirements from managers and users. Traditionally these methodologies
+have paid little attention to technologists’ assumptions, expectations, knowl-
+edge, and how these may differ from the frames of managers and users for
+whom the technology is being built. Some of the techniques of frame articula-
+tion and assessment mentioned above might usefully be applied to technolo-
+gists, so as to track the degree to which their interpretations of the technol-
+ogy and associated organizational changes relate to those of other stakehold-
+ers. These techniques would be particularly important in the case of external
+systems consultants since they have no common organizational context with
+their clients; hence congruence in frames may be even more difficult to
+accomplish.
+
+CONCLUSION
+In this article we have developed the concept of technological frames and
+suggested that people’s technological frames influence their actions toward
+technology. We further posited that technological frames are shared by
+members of a group having a particular interaction with some technology. We
+defined the notion of frame incongruence and suggested that different groups
+may have incongruent technological frames, which could lead to difficulties
+around technological use and change. Different technological frames imply
+different ways of knowing and making sense of technology. As these different
+interpretations are typically not articulated or discussed, they may, as we
+saw in the case of the Notes implementation, result unintendedly and un-
+knowingly in misaligned expectations (such as technologists intending im-
+provements in group work while users perceive improvements in individual
+productivity), contradictory actions (such as technologists installing and oper-
+ating a technology while users wait for training and applications), and
+unanticipated organizational consequences (such as resistance, skepticism,
+and spotty adoption).
+By articulating the interaction between shared interpretations, social ac-
+tion, and technological artifacts within an organizational context, technologi-
+cal frames offer a number of theoretical and practical contributions. We
+believe that the concept of technological frames and the broad domains of
+technological frames proposed here are a useful starting point for examining
+key actors’ interpretations of technology, and the nature and extent of
+differences among them. We also believe that the framework of technological
+frames has utility for the diagnosis, explanation, and anticipation of out-
+comes around technological change in organizations, and hence may be
+particularly useful to implementors and practitioners attempting to manage such change processes.
